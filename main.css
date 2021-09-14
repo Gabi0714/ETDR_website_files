@@ -106,7 +106,7 @@ a:hover {
 
 .main-info-text h1 {
     font-size: 3.15rem;
-    color: #d2ba87;
+    color: hsla(0, 0%, 100%, .9);
     margin-bottom: 0;
     /* To negate the effect of the single-direction margin declaration. */
 }
