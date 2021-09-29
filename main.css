@@ -74,6 +74,10 @@ a:hover {
     height: 9rem;
 }
 
+.logo2 img {
+    height: 5rem;
+}
+
 .header-main-side a {
     text-align: middle;
     text-decoration: none;
